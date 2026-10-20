@@ -4,11 +4,11 @@ Last updated: 20 October 2026
 
 ## Who this applies to
 
-Gmail MCP is a personal tool used only by its owner, Xavier Marcassa. No other person is invited to use it or to grant it access to their Google account.
+Gmail MCP is a personal tool used only by its owner. No other person is invited to use it or to grant it access to their Google account.
 
 ## What data the app accesses
 
-When the owner signs in with Google, the app requests access to the owner's own Gmail account (`marcassa.xavier@gmail.com`) so that the owner can search, read, draft, send and organise his own emails from his AI assistant.
+When the owner signs in with Google, the app requests access to the owner's own Gmail account so that the owner can search, read, draft, send and organise his own emails from his AI assistant.
 
 ## How the data is used
 
@@ -20,7 +20,7 @@ When the owner signs in with Google, the app requests access to the owner's own 
 
 - The OAuth tokens are stored only on the owner's own computer, in a local folder with restricted access.
 - The app has no server and no database. Nothing is uploaded to any service operated by the owner.
-- The tokens can be revoked at any time at https://myaccount.google.com/permissions.
+- The tokens can be revoked at any time at <https://myaccount.google.com/permissions>.
 
 ## Sharing
 
@@ -36,4 +36,4 @@ If this policy changes, the new version will be published here with an updated d
 
 ## Contact
 
-Xavier Marcassa, marcassa.xavier@gmail.com
+Open an issue on this repository.

@@ -1,6 +1,6 @@
 # Gmail MCP (personal use)
 
-Gmail MCP is a small personal tool used by a single person, its owner (Xavier Marcassa), to read and manage his own Gmail mailbox (`marcassa.xavier@gmail.com`) from AI assistants such as Claude Desktop, through a local MCP (Model Context Protocol) server.
+Gmail MCP is a small personal tool used by a single person, its owner, to read and manage his own Gmail mailbox from AI assistants such as Claude Desktop, through a local MCP (Model Context Protocol) server.
 
 ## What it is
 
@@ -19,4 +19,4 @@ See [PRIVACY.md](PRIVACY.md).
 
 ## Contact
 
-Xavier Marcassa, marcassa.xavier@gmail.com
+Open an issue on this repository.
