@@ -9,6 +9,12 @@ client_secret*.json
 *.pem
 *.key
 
+# Gmail MCP local storage and OAuth keys
+gcp-oauth.keys.json
+*oauth*.json
+storage-*/
+.gmail-mcp/
+
 # Python
 .venv/
 venv/
